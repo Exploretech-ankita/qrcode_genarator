@@ -6,4 +6,4 @@ Also this is converted into .exe file with python itself that means it can run i
 --qrcode library  
 --pillow library  
 --pyinstaller library  
-!(https://myoctocat.com/assets/images/base-octocat.svg)
+
